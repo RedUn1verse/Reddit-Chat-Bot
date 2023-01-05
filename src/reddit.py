@@ -3,7 +3,7 @@
 
 import praw
 import random
-import src.madlibs as madlibs
+import madlibs as madlibs
 import time
 
 def get_topic_comments (submission):
